@@ -13,10 +13,5 @@ impressions, device, etc.
 - The highest number of link clicks on ads by the user was found to be on February 2020. A detailed report on the data can be found <a href=""> here </a>
 
 ## :closed_book: Analysis Report
-
-<object data="https://github.com/devikathampi/Exploratory-Data-Analysis/blob/master/Exploratory%20Data%20Analysis%20Report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/devikathampi/Exploratory-Data-Analysis/blob/master/Exploratory%20Data%20Analysis%20Report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-  
+- <a href="https://github.com/devikathampi/Exploratory-Data-Analysis/blob/master/Exploratory%20Data%20Analysis%20Report.pdf"> View Report </a>
+        
