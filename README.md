@@ -1,8 +1,8 @@
 # Exploratory Data Analysis of Marketing Campaign Data
 
 ## :page_facing_up: Dataset
-- Marketing campaign data from Oct 2019 to July 2020.
-<a href=https://github.com/devikathampi/Data-Analysis/blob/master/alldata.csv> Dataset </a>
+- Marketing campaign data from Oct 2019 to July 2020. <br>
+- <a href=https://github.com/devikathampi/Data-Analysis/blob/master/alldata.csv> Dataset </a>
 
 This dataset contains time-series data of marketing campaign of Facebook and Google
 campaigns including campaign platforms, audience types, spends, clicks, link clicks,
