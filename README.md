@@ -1,7 +1,7 @@
 # Exploratory Data Analysis of Marketing Campaign Data
 
 ## :page_facing_up: Dataset
-- Marketing campaign data from Oct 2019 to July 2020. <br>
+Marketing campaign data from Oct 2019 to July 2020. <br>
 - <a href=https://github.com/devikathampi/Data-Analysis/blob/master/alldata.csv> Dataset </a>
 
 This dataset contains time-series data of marketing campaign of Facebook and Google
@@ -14,6 +14,9 @@ impressions, device, etc.
 
 ## :closed_book: Analysis Report
 
-<embed src="Exploratory Data Analysis Report.pdf" type="application/pdf">
-
+<object data="https://github.com/devikathampi/Exploratory-Data-Analysis/blob/master/Exploratory%20Data%20Analysis%20Report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/devikathampi/Exploratory-Data-Analysis/blob/master/Exploratory%20Data%20Analysis%20Report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
   
