@@ -14,4 +14,6 @@ impressions, device, etc.
 
 ## :closed_book: Analysis Report
 
+<embed src="Exploratory Data Analysis Report.pdf" type="application/pdf">
+
   
