@@ -10,7 +10,7 @@ impressions, device, etc.
 
 ## :memo: Analysis
 - The data was cleaned and null values were imputed using KNN Imputer and insights from the data were drawn. Time series forecasting of data was done using ARIMA model.
-- The highest number of link clicks on ads by the user was found to be on February 2020. A detailed report on the data can be found <a href=""> here </a>
+- The highest number of link clicks on ads by the user was found to be on February 2020. A detailed report on the data can be found <a href="https://github.com/devikathampi/Exploratory-Data-Analysis/blob/master/Exploratory%20Data%20Analysis%20Report.pdf"> here </a>
 
 ## :closed_book: Analysis Report
 - <a href="https://github.com/devikathampi/Exploratory-Data-Analysis/blob/master/Exploratory%20Data%20Analysis%20Report.pdf"> View Report </a>
